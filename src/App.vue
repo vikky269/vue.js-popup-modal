@@ -31,6 +31,14 @@
 
  <button @click="toggleModal">open modal</button>
  <button @click="toggleModal2">open modal2</button>
+
+
+
+ <!--practicing pull request -->
+
+<div class="container">
+  <h1>amune victor making pullrequest</h1>
+</div>
 </template>
 
 <script>
